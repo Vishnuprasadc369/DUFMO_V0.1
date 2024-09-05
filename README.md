@@ -2,7 +2,7 @@
 
 DUFMO is an open-source robot project built around the ESP32 microcontroller, now enhanced with an **ESP32-CAM** module for real-time video streaming and image capture. Designed for hobbyists and makers, this robot integrates simple yet powerful hardware to offer interactive features like movement control, obstacle detection, touch-based feedback, and now, vision capabilities. DUFMO’s design is compact, customizable, and ideal for learning robotics, sensors, and embedded systems.
 
-![DUFMO Robot](circuit/DUFMo.jpg)
+![DUFMO_V0.1](circuit/DUFMo.jpg)
 
 ## Key Features
 - **ESP32 Microcontroller**: Acts as the robot’s brain, offering built-in Wi-Fi and Bluetooth capabilities for remote control and wireless communication.
